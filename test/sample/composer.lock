@@ -1,0 +1,8 @@
+{
+  "packages": [
+    {
+      "name": "guzzlehttp/guzzle",
+      "version": "6.4.0"
+    }
+  ]
+}
