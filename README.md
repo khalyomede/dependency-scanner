@@ -2,6 +2,8 @@
 
 Returns a list of packages available for updates.
 
+![Packagist License](https://img.shields.io/packagist/l/khalyomede/dependency-scanner) ![Packagist Version](https://img.shields.io/packagist/v/khalyomede/dependency-scanner) ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/khalyomede/dependency-scanner) [![Build Status](https://travis-ci.com/khalyomede/dependency-scanner.svg?branch=master)](https://travis-ci.com/khalyomede/dependency-scanner) [![Maintainability](https://api.codeclimate.com/v1/badges/223c6452b5738eecfeb2/maintainability)](https://codeclimate.com/github/khalyomede/dependency-scanner/maintainability)
+
 ## Summary
 
 - [About](#about)
